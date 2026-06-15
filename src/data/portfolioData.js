@@ -6,7 +6,7 @@ export const portfolioData = {
     id: "K70",
     major: "Ngôn ngữ và Văn hóa Hàn Quốc",
     university: "Trường Đại học Ngoại ngữ - Đại học Quốc gia Hà Nội (ULIS - VNU)",
-    bio: "Portfolio học tập ghi lại quá trình ứng dụng công nghệ số và AI trong việc tổ chức tài liệu, tìm kiếm thông tin, trình bày sản phẩm học thuật và khám phá văn hóa Hàn Quốc.",
+    bio: "Portfolio nhằm lưu trữ, hệ thống hóa các sản phẩm học tập đã thực hiện trong học phần, đồng thời thể hiện quá trình phát triển kiến thức, kỹ năng số và làm cơ sở theo dõi sự tiến bộ của bản thân trong tương lai.",
     skills: ["Korean Language", "Korean Culture", "Digital Literacy", "AI-assisted Learning", "Academic Research", "Intercultural Communication"]
   },
   overview: [

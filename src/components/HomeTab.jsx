@@ -21,7 +21,7 @@ export default function HomeTab({ setActiveTab }) {
             Báo cáo Cuối kỳ
           </div>
           <h1 className="text-4xl md:text-5xl font-extrabold mb-4 leading-tight">
-            Korean Language & Culture <br/><span className="text-transparent bg-clip-text bg-gradient-to-r from-academic-blue-light to-academic-cyan">Learning Portfolio</span>
+            Digital Technology & <br/><span className="text-transparent bg-clip-text bg-gradient-to-r from-academic-blue-light to-academic-cyan">AI Learning Portfolio</span>
           </h1>
           <p className="text-lg md:text-xl text-slate-300 mb-6 font-light">
             Nhập môn Công nghệ số và Ứng dụng Trí tuệ nhân tạo

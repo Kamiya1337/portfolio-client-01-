@@ -13,11 +13,13 @@ export default function Summary() {
           <Quote className="absolute top-4 right-4 text-slate-100 rotate-180" size={80} />
           <h3 className="text-xl font-bold text-academic-hero-blue mb-4 relative z-10">Kiến thức & Kỹ năng đã đạt được</h3>
           <p className="text-slate-700 leading-relaxed relative z-10 text-justify">
-            "Ban đầu em nghĩ portfolio chỉ là gom các bài đã làm rồi đưa lên một trang web. Nhưng khi bắt tay vào làm, em mới thấy nếu chỉ đưa file lên thì sản phẩm sẽ khá rời rạc và không thể hiện được quá trình học.
-
-Qua học phần này, em học được cách tổ chức tài liệu rõ ràng hơn, biết đặt tên file dễ hiểu hơn và lưu trữ theo từng môn, từng bài. Em cũng hiểu hơn về cách tìm kiếm thông tin, đánh giá nguồn và sử dụng AI trong học tập. Trước đây em thường hỏi AI khá bản năng, nhưng sau bài về prompt, em nhận ra nếu đưa rõ bối cảnh, yêu cầu và định dạng mong muốn thì kết quả sẽ tốt hơn nhiều.
-
-Việc làm portfolio bằng web cũng giúp em luyện thêm kỹ năng trình bày sản phẩm số: sắp xếp bố cục, chia nội dung, gắn link báo cáo và làm sao để người xem dễ theo dõi."
+            "Thông qua việc hoàn thành 6 bài tập của học phần, em đã tiếp thu được nhiều kiến thức và kỹ năng quan trọng liên quan đến công nghệ số. Em hiểu rõ hơn về các thành phần của máy tính và thiết bị ngoại vi, cách khai thác thông tin trên Internet một cách hiệu quả, cũng như các nguyên tắc đánh giá độ tin cậy của nguồn thông tin. Bên cạnh đó, em còn được tiếp cận với trí tuệ nhân tạo (AI), hiểu được những lợi ích, hạn chế và cách sử dụng AI một cách phù hợp trong học tập.
+<br />
+  <br />
+Về kỹ năng, em đã nâng cao khả năng tìm kiếm, chọn lọc và xử lý thông tin từ nhiều nguồn khác nhau. Em biết cách xây dựng Prompt để tương tác hiệu quả với các công cụ AI, sử dụng các nền tảng số để giao tiếp và hợp tác trực tuyến, đồng thời phát triển kỹ năng sáng tạo nội dung số thông qua việc thiết kế và trình bày sản phẩm học tập. Ngoài ra, em cũng hiểu rõ hơn về an toàn thông tin, bảo vệ dữ liệu cá nhân và các nguyên tắc liêm chính học thuật trong môi trường số.
+<br />
+  <br />
+Những kiến thức và kỹ năng này không chỉ giúp em hoàn thành tốt các yêu cầu của học phần mà còn tạo nền tảng quan trọng cho quá trình học tập và phát triển nghề nghiệp trong tương lai."
           </p>
         </div>
 
